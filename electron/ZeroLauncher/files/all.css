@@ -2,20 +2,30 @@
   background: #383838;
 }
 
-.body {
-  align-content: center;
-}
-
-.logo_big {
+.logo {
   display: block;
+  width: 100px;
   margin-left: auto;
   margin-right: auto;
-  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  -webkit-animation: fadein 5s;
 }
 
 .label {
   text-align: center;
   font-family: 'Text Me One', sans-serif;
-  font-size: 25px;
+  font-size: 33px;
   color: white;
+
+  -webkit-animation: fadein 5s;
+}
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }

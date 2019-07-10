@@ -8,8 +8,8 @@ let mainWindow
 function createWindow() {
   let mainWindow = new BrowserWindow({
     backgroundColor: '#383838',
-    width: 900,
-    height: 700,
+    width: 200,
+    height: 250,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js')
     }
