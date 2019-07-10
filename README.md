@@ -1,4 +1,4 @@
 # ZeroLauncher
-ZeroNet launcher
+ZeroNet launcher - Electron and Gtk mockups
 
 ![alt text](screenshot.png)
