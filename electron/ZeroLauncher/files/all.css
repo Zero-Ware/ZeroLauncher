@@ -1,0 +1,21 @@
+.body {
+  background: #383838;
+}
+
+.body {
+  align-content: center;
+}
+
+.logo_big {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+.label {
+  text-align: center;
+  font-family: 'Text Me One', sans-serif;
+  font-size: 25px;
+  color: white;
+}

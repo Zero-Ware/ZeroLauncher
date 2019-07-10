@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91pt" height="128pt" viewBox="0 0 91 128" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="23.561723" y1="239.830926" x2="179.792158" y2="91.728655" gradientTransform="matrix(0.251381,0,0,0.25,0.00000125691,0)">
+<stop offset="0" style="stop-color:rgb(59.215686%,39.215686%,97.254902%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(70.980392%,46.27451%,91.372549%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="169.669344" y1="384.093497" x2="161.790508" y2="494.796199" gradientTransform="matrix(0.251381,0,0,0.25,0.00000125691,0)">
+<stop offset="0" style="stop-color:rgb(58.823529%,37.254902%,97.647059%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(75.294118%,46.27451%,91.372549%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="305.654149" y1="176.027269" x2="55.276554" y2="332.482102" gradientTransform="matrix(0.251381,0,0,0.25,0.00000125691,0)">
+<stop offset="0" style="stop-color:rgb(58.431373%,38.823529%,97.647059%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(69.019608%,45.098039%,92.54902%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear0);" d="M 0 75.484375 L 0 26.390625 L 45.484375 0 L 90.945312 26.179688 L 79.953125 46.480469 L 45.492188 25.246094 L 22.082031 39.019531 L 22.082031 62.78125 Z M 0 75.484375 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear1);" d="M 90.90625 52.519531 L 90.90625 101.613281 L 45.441406 128 L 0.03125 101.851562 L 13.78125 84.472656 L 45.441406 102.761719 L 68.832031 88.972656 L 68.832031 65.226562 Z M 90.90625 52.519531 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:url(#linear2);" d="M 0.03125 101.851562 L 90.945312 49.019531 L 90.945312 26.179688 L 0 79 Z M 0.03125 101.851562 "/>
+</g>
+</svg>

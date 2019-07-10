@@ -1,0 +1,20 @@
+{
+  "name": "ZeroLauncher",
+  "version": "1.0.0",
+  "description": "Let's build a decentralized Internet togheter!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "TODO",
+  "keywords": [
+    "TODO",
+    "TODO",
+    "TODO"
+  ],
+  "author": "TODO",
+  "license": "TODO",
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
+}
